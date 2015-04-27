@@ -1,0 +1,11 @@
+<div class="jumbotron">
+  <h2>Welcome to Inch CI Gossip!</h2>
+  <p class="lead">Gossip is a Phoenix powered socket server that broadcasts Inch CI's activity to clients.</p>
+</div>
+
+
+
+<div class="jumbotron" style="text-align: left">
+  <div id="messages"></div>
+  &gt;
+</div>
