@@ -3,6 +3,9 @@
 /deps
 /*.ez
 
+# Keep secrets from version control
+/config/prod.secret.exs
+
 # Generate on crash by the VM
 erl_crash.dump
 
