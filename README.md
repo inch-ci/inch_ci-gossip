@@ -1,4 +1,4 @@
-# Inch CI Gossip
+# Inch CI Gossip [![Inline docs](http://inch-ci.org/github/inch-ci/inch_ci-gossip.svg?branch=master)](http://inch-ci.org/github/inch-ci/inch_ci-gossip)
 
 Gossip is a socket server that uses Phoenix Channels to pass messages between Inch CI's worker processes and connected clients.
 
